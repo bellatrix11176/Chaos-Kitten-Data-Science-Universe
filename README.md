@@ -282,3 +282,4 @@ The framework is designed to bridge the gap between:
 ---
 
 # Repository Structure
+© 2026 PixelKraze, LLC — All Rights Reserved
