@@ -48,14 +48,25 @@ Even when permission is granted, attribution must be provided to:
 
 **PixelKraze, LLC**
 
-## Licensing Requests
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Organizations or individuals interested in licensing the Chaos Kitten framework for research, analytics, training, or commercial applications must request permission.
+Copyright (c) 2026 Gina Aulabaugh / PixelKraze, LLC
 
-Contact:
+You are free to:
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material
 
-PixelKraze, LLC  
-Licensing Inquiries
+Under the following terms:
+  Attribution — You must give appropriate credit to Gina Aulabaugh / PixelKraze, LLC,
+  provide a link to the license, and indicate if changes were made.
+
+  NonCommercial — You may not use the material for commercial purposes without
+  explicit written permission from the copyright holder.
+
+No additional restrictions — You may not apply legal terms or technological measures
+that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Legal Notice
 
